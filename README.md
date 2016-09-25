@@ -1,1 +1,1 @@
-# -osu-Mapping-
+# osu-Mapping
