@@ -1,1 +1,1 @@
-# osu-Mapping
+# OSU作图教程
